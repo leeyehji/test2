@@ -1,10 +1,10 @@
 # test2
-
-practice
-
 github의 기본 기능을 익혀보자
 
-*기초 용어
+***
+
+
+* 기초 용어
 full: ?
 stage: ?
 git: 게임의 세이브 포인트 같은 것.
